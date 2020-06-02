@@ -13,3 +13,4 @@
 1. 人生海海 
 1. 富爸爸穷爸爸
 1. Elon Musk - Tesla, SpaceX, and the Quest for a Fantastic Future 硅谷钢铁侠 by [美]Ashlee Vance
+1. The Long Tail - Why the Future of Business is Selling Less is More 长尾理论·为什么商业的未来是小众市场 by [美]Chirs Anderson
