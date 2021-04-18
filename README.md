@@ -17,3 +17,6 @@
 1. ONE TWO THREE...INFINITY 从一到无穷大·科学中的事实与猜想 by[美] George Gamow
 1. Homo Deus - A Brief History of Tomorrow 未来简史·从智人到智神 by [以]Yuval Noah Harari
 1. 时间移民 by 刘慈欣
+
+# 2021
+1. Poor Charlie's Almanack - The Wit and Wisdom of Charles T. Munger 穷查理宝典·查理芒格智慧箴言录 by [美]Peter D. Kaufman
