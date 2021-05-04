@@ -3,6 +3,7 @@
 # 2021
 1. Poor Charlie's Almanack - The Wit and Wisdom of Charles T. Munger 穷查理宝典·查理芒格智慧箴言录 by [美]Peter D. Kaufman
 1. 区块链 交易系统开发指南
+1. The Grand Tour Guide to the World
 
 # 2020
 1. 李小龙
