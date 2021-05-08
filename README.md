@@ -5,6 +5,7 @@
 1. 区块链 交易系统开发指南
 1. The Grand Tour Guide to the World
 1. Overview 俯瞰地球 by [美]Benjamin Grant
+1. 巴菲特传
 
 # 2020
 1. 李小龙
