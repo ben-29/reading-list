@@ -8,6 +8,7 @@
 1. 巴菲特传
 1. [Mastering Bitcoin](https://github.com/bitcoinbook/bitcoinbook) [精通比特币](https://github.com/tianmingyun/MasterBitcoin2CN) by [英]Andreas M. Antonopoulos
 1. [Mastering Ethereum](https://github.com/ethereumbook/ethereumbook) [精通以太坊](https://github.com/inoutcode/ethereum_book) by [英]Andreas M. Antonopoulos, Gavin Wood
+1. Night Sky with the Naked Eye 裸眼观星 by [美]Bob King
 
 # 2020
 1. 李小龙
